@@ -1,0 +1,192 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45EA15BA-D002-480D-BA20-E7CD2FC5F72F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project_JS</RootNamespace>
+    <AssemblyName>Project_JS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44356</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\mainPageCss.css" />
+    <Content Include="css\StyleSheet2.css" />
+    <Content Include="css\StyleSheet3.css" />
+    <Content Include="html\main.html" />
+    <Content Include="html\secondPage.html" />
+    <Content Include="html\thirdPage.html" />
+    <Content Include="Images\arab\arab1.png" />
+    <Content Include="Images\arab\arab2.png" />
+    <Content Include="Images\arab\knife.png" />
+    <Content Include="Images\arab\soldier.png" />
+    <Content Include="Images\baloon\blue_baloon.png" />
+    <Content Include="Images\baloon\gold_baloon.png" />
+    <Content Include="Images\baloon\hand.png" />
+    <Content Include="Images\baloon\red_baloon.png" />
+    <Content Include="Images\baloon\red_strelka.png" />
+    <Content Include="Images\baloon\strelka_greey.png" />
+    <Content Include="Images\book_tolaat\book.png" />
+    <Content Include="Images\book_tolaat\books.png" />
+    <Content Include="Images\book_tolaat\tolaat1.png" />
+    <Content Include="Images\book_tolaat\tolaat2.png" />
+    <Content Include="Images\book_tolaat\tolaat3.png" />
+    <Content Include="Images\book_tolaat\tolaat4.png" />
+    <Content Include="Images\book_tolaat\tolaat5.png" />
+    <Content Include="Images\boom.png" />
+    <Content Include="Images\bubbles\bubble.png" />
+    <Content Include="Images\bubbles\hand.png" />
+    <Content Include="Images\elements\0.png" />
+    <Content Include="Images\elements\1.png" />
+    <Content Include="Images\elements\2.png" />
+    <Content Include="Images\elements\3.png" />
+    <Content Include="Images\elements\4.png" />
+    <Content Include="Images\elements\5.png" />
+    <Content Include="Images\elements\6.png" />
+    <Content Include="Images\elements\7.png" />
+    <Content Include="Images\elements\20.png" />
+    <Content Include="Images\elements\21.png" />
+    <Content Include="Images\elements\22.png" />
+    <Content Include="Images\elements\23.png" />
+    <Content Include="Images\elements\24.png" />
+    <Content Include="Images\elements\25.png" />
+    <Content Include="Images\elements\26.png" />
+    <Content Include="Images\elements\27.png" />
+    <Content Include="Images\explosion.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\lolipop_girl\girl.png" />
+    <Content Include="Images\lolipop_girl\lolipop1.png" />
+    <Content Include="Images\lolipop_girl\lolipop2.png" />
+    <Content Include="Images\mastic\boy_mastic.png" />
+    <Content Include="Images\mastic\hand.png" />
+    <Content Include="Images\mastic\kuala_mastic.png" />
+    <Content Include="Images\mastic\man_mastic.png" />
+    <Content Include="Images\mastic\o_boy_mastic.png" />
+    <Content Include="Images\rav-kav\bus1.png" />
+    <Content Include="Images\rav-kav\bus2.png" />
+    <Content Include="Images\rav-kav\bus3.png" />
+    <Content Include="Images\rav-kav\rav_kav.png" />
+    <Content Include="Images\shouse_bug\bag.png" />
+    <Content Include="Images\shouse_bug\shouse1.png" />
+    <Content Include="Images\shouse_bug\shouse2.png" />
+    <Content Include="Images\shouse_bug\shouse3.png" />
+    <Content Include="Images\the end.gif" />
+    <Content Include="Images\trash-bin.png" />
+    <Content Include="js\JavaScriptMainPage.js" />
+    <Content Include="js\JSSecondPage.js" />
+    <Content Include="js\JSThirdPage.js" />
+    <Content Include="js\public.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\arab\Thumbs.db" />
+    <Content Include="Images\baloon\Thumbs.db" />
+    <Content Include="Images\shouse_bug\Thumbs.db" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51728</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44356/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="../Images/explosion.png" />
+    <meta charset="utf-8" />
+    <title>BOOM🎮</title>
+    <link href="../css/mainPageCss.css" rel="stylesheet" />
+    <script src="../js/JavaScriptMainPage.js"></script>
+    <script src="../js/public.js"></script>
+</head>
+<body style="text-align:center" onload="putNames()">
+    <header>
+        <img src="../Images/logo.png" style="width:auto; height:auto;" id="logo" />
+        <h1>!welcome</h1>
+    </header>
+    <br />
+    <br />
+    <div id="center">
+        <span class="exp">enter your name</span><br />
+        <span id="NameErr" class="err">יש להקיש שם</span>
+        <!--<input type="text" />-->
+        <select id="selectName" onchange="HideText()">
+            <option>select name</option>
+        </select>&nbsp;&nbsp;&nbsp;
+        <button class="btn" onclick="showText()">Other</button>
+        <input class="input-field" id="PlayerName" type="text" value="player 1" />
+        <br /><br />
+        <span class="exp">choose number elemets</span><br />
+        <input id="NumElements" class="input-field" type="number" min="50" max="150" value="50" step="10" />
+        <br /><br />
+        <span class="exp">choose a level</span><br />
+        <input id="level" class="input-field" type="number" min="1" max="3" value="1" />
+        <br /><br />
+        <span class="exp">choose an element</span><br /><br />
+        <span id="RadioErr" class="err">יש לבחור אלמנט משחק</span>
+        <input id="pic1" type="radio" name="pic" checked="checked" onchange="RemoveImages()" /><label for="pic1">random picture</label><br />
+        <input id="pic2" type="radio" name="pic" onchange="CreateImages()" /><label for="pic2">choosing a images</label>
+        <div id="ParentImages">
+            <!--the images will come in where the game will run-->
+        </div><br />
+        <span id="explanation">
+            <!--game instructions-->
+        </span>
+
+    </div>
+    <br />
+    <br />
+    <br />
+    <footer>
+        <h2>!Good Luck</h2>
+        <br /><br />
+        <!--<input type="button" value="Play 🎮" onclick="startGame()" />-->
+        <input type="button" value="Play 🎮" onclick="goNext()" />
+        <br />
+        <br />
+        <br />
+        <h3>created by Shirel Haya Aronin & Tamar Holzer</h3>
+    </footer>
+</body>
+</html>

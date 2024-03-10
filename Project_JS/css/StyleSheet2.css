@@ -1,0 +1,117 @@
+﻿html {
+}
+
+body {
+    /*cursor: url('../images/arab/arab1.png');*/
+    background-color: #8eaadb;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    cursor: url(../Images/arab/arab1.png), auto;
+}
+
+header {
+    /*    text-align: center;
+*/ padding: 20px;
+    background-color: snow;
+    position:relative;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+#gameContainer {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+}
+
+.gameElement {
+    position: absolute;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+    .gameElement:hover {
+        transform: scale(1.2);
+    }
+
+.NewImages {
+    animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+    50% {
+        transform: rotate(360eg);
+    }
+}
+/*#points {
+    width: 50%;
+}
+#PlayerName {
+    width: 50%;
+}*/
+.button{
+    width: 50px;
+    height: 50px;
+    background-color: deeppink;
+    border-radius:4px;
+    margin:10px 5px;
+    cursor:pointer;
+}
+    .button:hover {
+        -webkit-box-shadow: 4px 6px 31px -3px rgba(0,0,0,0.9);
+        box-shadow: 4px 6px 31px -3px rgba(0,0,0,0.9);
+    }
+.buttons {
+    position: absolute;
+    bottom: 45px;
+    left: 45%;
+}
+/*
+#champ {
+    width: 50px;
+    height: 50px;
+    background-color: deeppink;
+    position: fixed;
+    bottom: 45px;
+    left: 45%;
+}*/
+
+
+#finish {
+    font-size: 36px;
+    color: yellow;
+    font-family: /*'Century Gothic',*/ 'Agency FB',Agency FB,'Algerian',Algerian,'Times New Roman', Times, serif;
+    text-align: center;
+    /*position: fixed;*/
+    /*    bottom: 49%;
+    left: 49%;*/
+    width: 100%;
+    height: calc(100vh - 154px);
+    font-size: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NewImages {
+    animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+    50% {
+        transform: rotate(360deg);
+    }
+}
+
+footer {
+    position: fixed;
+    bottom: 1px;
+    left: 39%;
+}

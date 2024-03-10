@@ -1,0 +1,176 @@
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\Project_JS.dll.config
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\Project_JS.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\Project_JS.pdb
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csc.exe
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csc.rsp
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csi.exe
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\csi.rsp
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\vbc.exe
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CopyComplete
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\obj\Debug\Project_JS.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\יג' הנדסת תוכנה\שיראל חיה ארונין\המו מלצר Html\פרויקט ב JS\Project_JS\Project_JS\obj\Debug\Project_JS.pdb
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\Project_JS.dll.config
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\Project_JS.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\Project_JS.pdb
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.exe
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.exe.config
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.rsp
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.exe
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.exe.config
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.rsp
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.AppContext.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Console.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Net.Http.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.exe
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.exe.config
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.rsp
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.AssemblyReference.cache
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CoreCompileInputs.cache
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CopyComplete
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.dll
+C:\Users\Yehudit\Downloads\תמר\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.pdb
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\Project_JS.dll.config
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\Project_JS.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\Project_JS.pdb
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.exe
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.exe.config
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csc.rsp
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.exe
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.exe.config
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\csi.rsp
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.AppContext.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Console.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Net.Http.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.exe
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.exe.config
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\vbc.rsp
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.AssemblyReference.cache
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CoreCompileInputs.cache
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.csproj.CopyComplete
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.dll
+C:\Users\Yehudit\Documents\תמר\שנה א\פרויקט בלוניםJS שנה א\מעודכן2\Project_JS\Project_JS\obj\Debug\Project_JS.pdb

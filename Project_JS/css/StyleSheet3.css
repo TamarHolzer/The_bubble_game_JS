@@ -1,0 +1,49 @@
+﻿
+body {
+    background-color: #8eaadb;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    background-color: red;
+}
+
+.button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: red;
+    cursor: pointer;
+}
+
+    .button:hover {
+        -webkit-box-shadow: 4px 6px 31px -3px rgba(0,0,0,0.9);
+        box-shadow: 4px 6px 31px -3px rgba(0,0,0,0.9);
+    }
+
+#divTable {
+    background-color: #f1ef84;
+    max-width: 50vw;
+    margin: 0 auto;
+    min-width: 300px;
+    border-radius: 10px;
+    max-height: 65vh;
+    overflow: auto;
+    //scrollbar-color: #ff0000;
+}
